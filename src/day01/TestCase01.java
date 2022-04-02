@@ -5,6 +5,8 @@ public class TestCase01 {
 
         System.out.println("Testing with Chrome browser");
 
+        System.out.println("Testing with Safari");
+
 
     }
 }
